@@ -31,4 +31,7 @@
         <item>restart_bootloader</item>
         <item>restart_fastboot</item>
      </string-array>
+
+    <!-- Pocket Lock -->
+    <bool name="config_pocketUseLightSensor">false</bool>
 </resources>
