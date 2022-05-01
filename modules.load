@@ -95,3 +95,4 @@ platform_dlkm.ko
 machine_dlkm.ko
 rmnet_core.ko
 rmnet_ctl.ko
+xiaomi_touch.ko
