@@ -140,7 +140,7 @@ vendor/lib64/camera/fdconfigpreviewlite.bin|e95052671b9eec7ff53b665482b7b85b7dac
 vendor/lib64/camera/fdconfigvideo.bin|c3303efadaa16495aee7e508a07f9000a435e8a2
 vendor/lib64/camera/fdconfigvideolite.bin|2d4648c313fa28fb83272f39ad64fd3bd0ff826d
 vendor/lib64/hw/camera.qcom.so|ba2f4315a1509ccf58b616460b3c04b3a52fe612
-vendor/lib64/hw/camera.xiaomi.so|ddb506e9defeef73164d10b8754e94bc607bff36
+vendor/lib64/hw/camera.xiaomi.so|91bd7f144cf46a57d9c53ba1ec96a1035a896770
 vendor/lib64/hw/com.qti.chi.override.so|fb053723e8dbadecfee244b2bb6714b224b09ff5
 vendor/lib64/HDR10plus.so|89bfcb26b5be65ec23343bf184b83b5247b8bb66
 vendor/lib64/com.qti.chiusecaseselector.so|2e20b8f890b1678118bef8a5aff1915008afda3a
