@@ -19,6 +19,7 @@ TARGET_SCREEN_DENSITY := 560
 TARGET_OTA_ASSERT_DEVICE := mars|star
 
 # Kernel
+TARGET_KERNEL_SOURCE := kernel/xiaomi/mars
 TARGET_KERNEL_CONFIG := vendor/mars_defconfig
 
 # Kernel modules
