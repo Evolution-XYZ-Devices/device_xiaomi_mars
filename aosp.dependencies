@@ -14,5 +14,11 @@
     "target_path": "vendor/xiaomi/mars",
     "branch": "twelve",
     "remote": "pixel-devices-blobs"
+  },
+  {
+    "repository": "vendor_xiaomi_mars-firmware",
+    "target_path": "vendor/xiaomi/mars-firmware",
+    "branch": "twelve",
+    "remote": "pixel-devices-blobs"
   }
 ]
