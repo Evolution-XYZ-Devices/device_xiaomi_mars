@@ -37,3 +37,4 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 114001162240
 
 # Include proprietary files
 -include vendor/xiaomi/mars/BoardConfigVendor.mk
+-include vendor/xiaomi/mars-firmware/BoardConfigVendor.mk
