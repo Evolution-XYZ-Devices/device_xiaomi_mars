@@ -32,7 +32,8 @@ PRODUCT_PACKAGES += \
     FrameworksResMars \
     SettingsProviderOverlayMars \
     SettingsResMars \
-    SystemUIResMars
+    SystemUIResMars \
+    WifiResMars
 
 # PowerShare
 PRODUCT_PACKAGES += \
