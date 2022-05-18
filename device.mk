@@ -60,4 +60,4 @@ PRODUCT_COPY_FILES += \
 
 
 # Call the proprietary setup
-$(call inherit-product-if-exists, vendor/xiaomi/mars/mars-vendor.mk)
+$(call inherit-product, vendor/xiaomi/mars/mars-vendor.mk)
