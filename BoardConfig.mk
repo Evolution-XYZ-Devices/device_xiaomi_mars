@@ -21,6 +21,9 @@ TARGET_OTA_ASSERT_DEVICE := mars|star
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/mars
 TARGET_KERNEL_CONFIG := vendor/mars_defconfig
+TARGET_KERNEL_CLANG_VERSION := prelude
+KERNEL_TOOLCHAIN := $(shell pwd)/prebuilts/clang/host/linux-x86/clang-prelude/bin
+KERNEL_SUPPORTS_LLVM_TOOLS := true
 
 # Kernel modules
 BOOT_KERNEL_MODULES := \
