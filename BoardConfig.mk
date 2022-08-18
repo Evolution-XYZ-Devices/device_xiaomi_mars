@@ -41,6 +41,9 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 114001162240
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
+# Recovery
+TARGET_RECOVERY_UI_MARGIN_HEIGHT := 165
+
 # Include proprietary files
 include vendor/xiaomi/mars/BoardConfigVendor.mk
 -include vendor/xiaomi/mars-firmware/BoardConfigVendor.mk
