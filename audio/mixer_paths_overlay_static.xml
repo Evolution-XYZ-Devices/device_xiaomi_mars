@@ -1091,8 +1091,8 @@
         <ctl name="ADC4 MUX" value="INP5" />
         <ctl name="TX3 MODE" value="ADC_LP" />
         <ctl name="ADC4_MIXER Switch" value="1" />
-        <ctl name="ADC1 Volume" value="12" />
-        <ctl name="ADC4 Volume" value="12" />
+        <ctl name="ADC1 Volume" value="16" />
+        <ctl name="ADC4 Volume" value="16" />
     </path>
 
     <path name="spkrid-mic">
