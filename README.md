@@ -1,5 +1,7 @@
 Copyright &copy; 2022 The PixelExperience Project
 
+Copyright &copy; 2023 The LineageOS Project
+
 Device configuration for Xiaomi Mi 11 Pro
 =========================================
 
@@ -23,4 +25,4 @@ Camera  | 50 MP main, 8 MP periscope telephoto, 13 MP ultrawide, 20 MP front
 
 ## Device picture
 
-![Xiaomi Mi 11 Pro](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617008379.90732074.jpg "Xiaomi Mi 11 Pro")
+![Xiaomi Mi 11 Pro](https://s2.loli.net/2023/03/27/YlSZmFPnJQ8bfd9.png "Xiaomi Mi 11 Pro")
